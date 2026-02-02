@@ -94,7 +94,7 @@ td {
     font-size: 1.3em;
 }
 
-h3 {
+h2 {
     text-align: center;
 }
  
@@ -104,17 +104,24 @@ h3 {
 }
 
 ul {
-    font-size: 1em;
+    font-size: 1.3em;
 }
 
 li {
-    margin-top: 5px;
+    margin-top: 10px;
+}
+
+iframe {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 footer {
     margin-top: 10px;
     border-top: 3px solid white;
     background-color:rgb(112, 112, 227);
+    color:#21c518;
     font-size: 0.6em;
 }
 
